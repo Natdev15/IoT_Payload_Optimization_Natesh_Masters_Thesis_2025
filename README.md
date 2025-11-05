@@ -49,7 +49,7 @@ IoT_Payload_Optimization_Natesh_Masters_Thesis_2025/
 
 ### Citation
 > Natesh Kumar (2025). *Investigating Efficient Binary Serialization Protocols for Hybrid TN/NT Networks for Massive IoT Devices and M2M Systems.*  
-> Master’s Thesis, Computer Science & Networking, University of Pisa.
+> _Master’s Thesis, Computer Science & Networking, University of Pisa._
 
 ---
 
