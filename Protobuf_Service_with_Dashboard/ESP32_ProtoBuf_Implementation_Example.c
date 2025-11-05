@@ -1,17 +1,9 @@
-/*
- * ESP32 Protocol Buffer Implementation for Container Data
- * 
- * This file demonstrates how to implement Protocol Buffer compression
- * on an ESP32 device for IoT container tracking applications.
- * 
- * Requirements:
- * - ESP-IDF framework
- * - nanopb library (lightweight protobuf implementation)
- * - FreeRTOS for task management
- * 
- * Author: Generated for ProtoBuf Project
- * Date: 2024
- */
+# ------------------------------------------------------------
+#  IoT Payload Optimization Framework – Master's Thesis (2025)
+#  Copyright (c) 2025 Natesh Kumar (Natdev15)
+#  Provided for academic and research reference only.
+# ------------------------------------------------------------
+
 
 #include <stdio.h>
 #include <stdlib.h>
