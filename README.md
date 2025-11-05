@@ -57,3 +57,4 @@ IoT_Payload_Optimization_Natesh_Masters_Thesis_2025/
 All rights reserved.  
 This project is shared for **academic and research reference** under the supervision of Prof. Paolo Pagano and Senior Researcher Mariano Falcitelli.  
 See [LICENSE](./LICENSE) for usage terms.
+Each source file includes an embedded copyright notice identifying authorship and permitted academic use.
