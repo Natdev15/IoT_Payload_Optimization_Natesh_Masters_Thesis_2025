@@ -1,3 +1,9 @@
+# ------------------------------------------------------------
+#  IoT Payload Optimization Framework – Master's Thesis (2025)
+#  Copyright (c) 2025 Natesh Kumar (Natdev15)
+#  Provided for academic and research reference only.
+# ------------------------------------------------------------
+
 import time
 import random
 import requests
