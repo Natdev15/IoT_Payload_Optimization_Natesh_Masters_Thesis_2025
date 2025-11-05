@@ -1,3 +1,10 @@
+# ------------------------------------------------------------
+#  IoT Payload Optimization Framework – Master's Thesis (2025)
+#  Copyright (c) 2025 Natesh Kumar (Natdev15)
+#  Provided for academic and research reference only.
+# ------------------------------------------------------------
+
+    
 const express = require('express');
 const zlib = require('zlib');
 const axios = require('axios');
