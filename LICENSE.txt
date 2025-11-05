@@ -1,0 +1,16 @@
+Custom Academic Reference License – All Rights Reserved
+Copyright (c) 2025 Natesh Kumar (Natdev15)
+
+All rights reserved.
+
+This repository contains the original source code developed by Natesh Kumar during the Master’s Thesis in Computer Science and Networking at the University of Pisa, under the supervision of Prof. Paolo Pagano and Senior Researcher Mariano Falcitelli.
+
+The code is provided for academic and research reference only.
+
+Reproduction, distribution, or modification beyond educational or non-commercial use is prohibited without the author’s explicit written permission.
+
+If reused in research, academic, or educational contexts, proper attribution must be given as:
+
+"Natesh Kumar (2025). Investigating Efficient Binary Serialization Protocols for Hybrid TN/NT Networks for Massive IoT Devices and M2M Systems, University of Pisa."
+
+Unauthorized commercial use or redistribution is strictly prohibited.

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.venv/
+venv/
+ENV/
+
+# Node.js
+nodejs_receiver/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test output files
+pure_msgpack_compression_test_*.txt
+*_compression_test_*.txt
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

@@ -1,0 +1,14 @@
+.venv/
+nodejs_receiver/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated output files
+out/
+
+# Logs directory
+logs/
