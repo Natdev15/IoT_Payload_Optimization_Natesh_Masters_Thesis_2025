@@ -1,15 +1,8 @@
-/*
- * ESP32 CBOR Implementation Example
- * 
- * This file shows exactly how an IoT engineer would implement
- * CBOR compression on ESP32 for container data transmission.
- * 
- * Libraries required:
- * - tinycbor: https://github.com/intel/tinycbor
- * - ArduinoJson (optional, for JSON comparison)
- * 
- * Hardware: ESP32 with sensors (GPS, accelerometer, temperature, etc.)
- */
+# ------------------------------------------------------------
+#  IoT Payload Optimization Framework – Master's Thesis (2025)
+#  Copyright (c) 2025 Natesh Kumar (Natdev15)
+#  Provided for academic and research reference only.
+# ------------------------------------------------------------
 
 #include <cbor.h>
 #include <WiFi.h>
